@@ -18,8 +18,6 @@ public class RelojArena {
 
 	} 
 	
-	
-	
 	 public static int relojArena(int[][] arr) {
 
 	        int suma[] = new int[16];

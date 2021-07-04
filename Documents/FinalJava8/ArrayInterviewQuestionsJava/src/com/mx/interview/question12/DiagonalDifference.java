@@ -10,9 +10,9 @@ public class DiagonalDifference {
 		List<List<Integer>> arr = new ArrayList<>();
 
 		List<Integer> x = new ArrayList<>();
-		x.add(11);
+		x.add(1);
 		x.add(2);
-		x.add(4);
+		x.add(3);
 
 		arr.add(x);
 
@@ -25,9 +25,9 @@ public class DiagonalDifference {
 		arr.add(y);
 
 		List<Integer> z = new ArrayList<>();
-		z.add(10);
+		z.add(9);
 		z.add(8);
-		z.add(-12);
+		z.add(9);
 
 		arr.add(z);
 
